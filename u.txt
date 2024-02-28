@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title> puzzle </title>
+  <link rel="stylesheet" type="text/CSS" href="akiko.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+
+<body style="background-color:pink";>
+   <div class="flowers">
+    <hr>
+    <hr>
+    
+    <h1 style="text-align:center;">name goes here</h1> 
+
+
+     
+       
+       <hr>
+        <hr>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkHTW_FPkK3j8NJVyLH6z9fSvUOBv_USiHY1r_iNM9ojU7xLtbwtnx4ciNnvvvneqAjY:https://i.pinimg.com/736x/2f/e5/ea/2fe5ea769a0841472f2519c7c9f77b8e.jpg&usqp=CAU" width="360" >
+    <hr>
+    <hr>
+<h3>bio will go right here</h3> <i class="material-icons">star</i>    <i class="material-icons">star</i>
+
+<h6>'</h6>
+    <h6>'</h6>
+    <h6>'</h6>
+    <hr>
+   
+    </div>
+    <script src="akiko.js"> </script>
+
+    <div class="button">
+
+
+   <button> </button>
+    
+
+    </div>
+
+
+
+    </body>
+
+    </html>
